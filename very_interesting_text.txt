@@ -18,6 +18,8 @@ he is creating a new branch and writing
 his text here. 
 *PLACE HOLDER: ASTUDENT'S TEXT*
 
+edited!
+
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
